@@ -1,0 +1,3 @@
+Symlinking /home/jy/mybot_ws/devel/lib/pkgconfig/mybot_navigation.pc
+Symlinking /home/jy/mybot_ws/devel/share/mybot_navigation/cmake/mybot_navigationConfig.cmake
+Symlinking /home/jy/mybot_ws/devel/share/mybot_navigation/cmake/mybot_navigationConfig-version.cmake

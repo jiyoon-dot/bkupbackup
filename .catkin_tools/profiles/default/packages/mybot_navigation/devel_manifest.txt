@@ -1,0 +1,4 @@
+mybot_navigation
+/home/jy/mybot_ws/devel/.private/mybot_navigation/lib/pkgconfig/mybot_navigation.pc /home/jy/mybot_ws/devel/lib/pkgconfig/mybot_navigation.pc
+/home/jy/mybot_ws/devel/.private/mybot_navigation/share/mybot_navigation/cmake/mybot_navigationConfig.cmake /home/jy/mybot_ws/devel/share/mybot_navigation/cmake/mybot_navigationConfig.cmake
+/home/jy/mybot_ws/devel/.private/mybot_navigation/share/mybot_navigation/cmake/mybot_navigationConfig-version.cmake /home/jy/mybot_ws/devel/share/mybot_navigation/cmake/mybot_navigationConfig-version.cmake

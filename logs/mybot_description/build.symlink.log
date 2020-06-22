@@ -1,0 +1,3 @@
+Symlinking /home/jy/mybot_ws/devel/lib/pkgconfig/mybot_description.pc
+Symlinking /home/jy/mybot_ws/devel/share/mybot_description/cmake/mybot_descriptionConfig.cmake
+Symlinking /home/jy/mybot_ws/devel/share/mybot_description/cmake/mybot_descriptionConfig-version.cmake

@@ -65,7 +65,7 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        chassis:
+        base_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -75,12 +75,22 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        left_wheel:
+        R1:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        right_wheel:
+        R2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        L1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        L2:
           Alpha: 1
           Show Axes: false
           Show Trail: false
