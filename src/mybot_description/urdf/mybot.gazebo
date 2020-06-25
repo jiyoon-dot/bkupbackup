@@ -182,18 +182,18 @@
       <ray>
         <scan>
           <horizontal>
-            <samples>2</samples>
+            <samples>720</samples>
             <resolution>1</resolution>
-            <min_angle>0</min_angle>
-            <max_angle>0</max_angle>
+            <min_angle>-1.57079632679</min_angle>
+            <max_angle>1.57079632679</max_angle>
           </horizontal>
 
-          <vertical>
+          <!--vertical>
             <samples>260</samples>
             <resolution>1</resolution>
             <min_angle>0</min_angle>
             <max_angle>1.570796</max_angle>
-          </vertical>
+          </vertical-->
 
         </scan>
         <range>
