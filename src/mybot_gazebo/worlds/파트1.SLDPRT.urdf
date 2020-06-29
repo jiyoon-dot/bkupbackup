@@ -5,20 +5,20 @@
 <robot
   name="파트1.SLDPRT">
   <link
-    name="part.SLDPRT">
+    name="파트1.SLDPRT">
     <inertial>
       <origin
-        xyz="23.667 -0.6954 4.8804"
+        xyz="23.657 -0.68269 4.8755"
         rpy="0 0 0" />
       <mass
-        value="1769400" />
+        value="1733100" />
       <inertia
-        ixx="127010000"
-        ixy="-633490.000000001"
-        ixz="22868000"
-        iyy="370470000"
-        iyz="-38310.0000000075"
-        izz="247560000" />
+        ixx="125790000"
+        ixy="-625590.000000001"
+        ixz="22591000"
+        iyy="366050000"
+        iyz="-36990.0000000075"
+        izz="244340000" />
     </inertial>
     <visual>
       <origin
@@ -26,14 +26,14 @@
         rpy="1.5707963267949 0 0" />
       <geometry>
         <mesh
-          filename="package://part.SLDPRT/meshes/part.SLDPRT.STL" />
+          filename="package://파트1.SLDPRT/meshes/파트1.SLDPRT.STL" />
       </geometry>
       <material
         name="">
         <color
           rgba="0.69804 0.69804 0.69804 1" />
         <texture
-          filename="package://part.SLDPRT/textures/" />
+          filename="package://파트1.SLDPRT/textures/" />
       </material>
     </visual>
     <collision>
@@ -42,7 +42,7 @@
         rpy="1.5707963267949 0 0" />
       <geometry>
         <mesh
-          filename="package://part.SLDPRT/meshes/part.SLDPRT.STL" />
+          filename="package://파트1.SLDPRT/meshes/파트1.SLDPRT.STL" />
       </geometry>
     </collision>
   </link>

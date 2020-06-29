@@ -76,7 +76,7 @@
 
 
   <gazebo reference="base_link">
-    <material>Gazebo/White</material>
+    <material>Gazebo/Red</material>
   </gazebo>
 
   <gazebo reference="R1">
