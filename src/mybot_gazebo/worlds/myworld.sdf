@@ -85,12 +85,12 @@
   <model name='myworld'>
     <static>true</static>
 
-      <pose>-20 -5 0 0 0 0</pose>
+      <pose>-8 -1.75 0 0 0 0</pose>
     <link name='myworld'>
       <visual name='myworld_visual'>
         <geometry>
           <mesh>
-            <scale>1 1 1</scale>
+            <scale>0.4 0.4 0.4</scale>
             <uri>model://part.SLDPRT/meshes/part.SLDPRT.STL</uri>
           </mesh>
         </geometry>
@@ -99,7 +99,7 @@
       <collision name='myworld_collision'>
         <geometry>
           <mesh>
-            <scale>1 1 1</scale>
+            <scale>0.4 0.4 0.4</scale>
             <uri>model://part.SLDPRT/meshes/part.SLDPRT.STL</uri>
           </mesh>
         </geometry>
