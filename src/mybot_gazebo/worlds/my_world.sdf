@@ -84,12 +84,12 @@
 
     <model name='myworld'>
     <static>true</static>
-      <pose>-9 -1.75 0.25 0 -0 0</pose>
+      <pose>-15 -4 0.25 0 -0 0</pose>
     <link name='myworld'>
       <visual name='myworld_visual'>
         <geometry>
           <mesh>
-            <scale>0.4 0.4 0.4</scale>
+            <scale>1 1 1</scale>
             <uri>model://파트1.SLDPRT/meshes/파트1.SLDPRT.STL</uri>
           </mesh>
         </geometry>
@@ -97,7 +97,7 @@
       <collision name='myworld_collision'>
         <geometry>
           <mesh>
-            <scale>0.4 0.4 0.4</scale>
+            <scale>1 1 1</scale>
             <uri>model://파트1.SLDPRT/meshes/파트1.SLDPRT.STL</uri>
           </mesh>
         </geometry>
